@@ -39,7 +39,7 @@
                 <hr class="ui divider">
 
                 <p class="simple text">
-                    Design and Code by <a target="_blank" href="https://github.com/ivmjunior">Ivanilson Melo</a>.
+                    Design and Code by <a target="_blank" href="https://github.com/ivmelo">Ivanilson Melo</a>.
                 </p>
             </div>
 
